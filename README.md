@@ -13,6 +13,7 @@ It features technologies like:
 - Babel
 - NPM
 - Axios
+- local storage
 
 
 Demo to the app: https://nemesmatyas.github.io/Forkify
