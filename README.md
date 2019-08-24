@@ -7,7 +7,7 @@ The app is powered by the Food2Fork API, and since it only offers 50 free calls 
 It features technologies like:
 - ES6 syntax
 - asnyc/await
-- fetching dating from an API
+- fetching data from an API
 - MVC (model-view-controller)
 - Webpack
 - Babel
